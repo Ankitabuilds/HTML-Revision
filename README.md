@@ -4,4 +4,5 @@
 
 📒 Topics covered:-<br>
    Basic structure
-   HTML-Attributes
+   Html-Attributes
+   Html-Formatting
