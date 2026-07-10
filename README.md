@@ -7,3 +7,4 @@
    Html-Attributes
    Html-Formatting
    Html-Quotations
+   Html-Colors
