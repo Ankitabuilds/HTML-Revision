@@ -9,3 +9,5 @@
    Html-Quotations
    Html-Colors
    Html-CSS
+   Html-Links
+   Html-Images
