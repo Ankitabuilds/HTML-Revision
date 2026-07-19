@@ -13,3 +13,4 @@
    Html-Images<br>
    Html-Tables<br>
    Html-Lists<br>
+   Html-Class<br>
